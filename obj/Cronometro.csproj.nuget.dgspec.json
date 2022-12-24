@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\Cronometro\\Cronometro\\Cronometro.csproj": {}
+    "C:\\Workspace\\Cronometro\\Cronometro.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\Cronometro\\Cronometro\\Cronometro.csproj": {
+    "C:\\Workspace\\Cronometro\\Cronometro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Cronometro\\Cronometro\\Cronometro.csproj",
+        "projectUniqueName": "C:\\Workspace\\Cronometro\\Cronometro.csproj",
         "projectName": "Cronometro",
-        "projectPath": "C:\\Workspace\\Cronometro\\Cronometro\\Cronometro.csproj",
+        "projectPath": "C:\\Workspace\\Cronometro\\Cronometro.csproj",
         "packagesPath": "C:\\Users\\games\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Cronometro\\Cronometro\\obj\\",
+        "outputPath": "C:\\Workspace\\Cronometro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
